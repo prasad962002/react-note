@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/prasad962002/react-note/static/css/main.073c9b0a.css",
-    "main.js": "/prasad962002/react-note/static/js/main.21d1a007.js",
-    "static/js/787.1a45a602.chunk.js": "/prasad962002/react-note/static/js/787.1a45a602.chunk.js",
-    "static/media/Checklist-min.jpeg": "/prasad962002/react-note/static/media/Checklist-min.a00557f49a0d5bd53814.jpeg",
-    "index.html": "/prasad962002/react-note/index.html",
-    "main.073c9b0a.css.map": "/prasad962002/react-note/static/css/main.073c9b0a.css.map",
-    "main.21d1a007.js.map": "/prasad962002/react-note/static/js/main.21d1a007.js.map",
-    "787.1a45a602.chunk.js.map": "/prasad962002/react-note/static/js/787.1a45a602.chunk.js.map"
+    "main.css": "/react-note/static/css/main.073c9b0a.css",
+    "main.js": "/react-note/static/js/main.9190e54e.js",
+    "static/js/787.1a45a602.chunk.js": "/react-note/static/js/787.1a45a602.chunk.js",
+    "static/media/Checklist-min.jpeg": "/react-note/static/media/Checklist-min.a00557f49a0d5bd53814.jpeg",
+    "index.html": "/react-note/index.html",
+    "main.073c9b0a.css.map": "/react-note/static/css/main.073c9b0a.css.map",
+    "main.9190e54e.js.map": "/react-note/static/js/main.9190e54e.js.map",
+    "787.1a45a602.chunk.js.map": "/react-note/static/js/787.1a45a602.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.21d1a007.js"
+    "static/js/main.9190e54e.js"
   ]
 }

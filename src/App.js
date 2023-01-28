@@ -17,7 +17,7 @@ function App() {
   console.log("Developed by Prasad Jamabhle");
   const deleteHandle = (id) => {
     const filterNote = noteList.filter((data, idx) => {
-      return(id != data.id);
+      return(id !== data.id);
     });
     // console.log(filterNote);
     setNoteList(filterNote);
@@ -26,7 +26,7 @@ function App() {
 
   const editHandle = (id, note) => {
     const filterNote = noteList.filter((data, idx) => {
-      return(id != data.id);
+      return(id !== data.id);
     });
     // console.log(filterNote);
     setNoteList(filterNote);
@@ -34,6 +34,7 @@ function App() {
   }
 
   // console.log(noteList);
+
   return (
     <>
     <Header />

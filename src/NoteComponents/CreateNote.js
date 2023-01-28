@@ -8,7 +8,7 @@ import TextField from '@mui/material/TextField';
 import FormGroup from '@mui/material/FormGroup';
 import Paper from '@mui/material/Paper';
 import AddIcon from '@mui/icons-material/Add';
-import { Stack } from "@mui/system";
+
 
 const CreateNote = ({ addNote }) => {
     
@@ -29,7 +29,7 @@ const CreateNote = ({ addNote }) => {
 
     //Handle Submit and add note
     const handleSubmit = () => {
-        if(note.title != '' || note.content != ''){
+        if(note.title !== '' || note.content !== ''){
             addNote(note);
             setIdCount(idCount + 1);
             setNote({id: idCount, title :'', content :''});
